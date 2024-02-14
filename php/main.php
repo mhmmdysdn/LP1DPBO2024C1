@@ -1,3 +1,8 @@
+/*
+Saya Muhammad Yusdan Ali dengan NIM 2206847 mengerjakan LP 1
+dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak
+melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+*/
 <?php
 require ('Depeer.php');
 
